@@ -31,7 +31,7 @@ class CoriolisCat:
     mission = "contribute meaningfully in the AI era"
 
     def coriolis(self, omega, v):
-        return -2 * cross(omega, v)   # every idea gets deflected
+        return -2 * cross(omega, v)   # every idea gets a curve
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
