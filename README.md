@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="https://oiia-experiment.replit.app/"><img src="assets/banner.svg" width="100%" alt="coriolis-cat banner: an abstract cat in a rotating frame, with Coriolis vectors −2Ω × v" /></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=E63946&center=true&vCenter=true&width=640&lines=Code.+Learn.+Unlearn.+Run.;Brain+memory+%C3%97+Machine+unlearning;Running+5km+a+day%2C+every+day;Curiosity%2C+rigorously+applied." alt="Code. Learn. Unlearn. Run." />
 </p>
 
